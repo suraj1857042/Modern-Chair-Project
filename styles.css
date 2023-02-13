@@ -187,7 +187,7 @@ label.color-6 {
   height: 100%;
   display: block;
   z-index: 1;
-  background-image: linear-gradient(196deg, #f1a9a9, #e66767);
+  background-image: linear-gradient(196deg, #a8bcce, #82a7c9);
   transition: all 250ms linear;
   transition-delay: 300ms;
 }
